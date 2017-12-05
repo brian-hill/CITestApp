@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private boolean isThisATest() {
-        thisIsATest = true;
+        thisIsATest = false;
         return thisIsATest;
     }
 }
